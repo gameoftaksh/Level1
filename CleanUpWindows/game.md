@@ -7,10 +7,13 @@
 ### What?:🧐 You have to share how much GBis / MBis you have cleard after doing this Clean UP!
 
 ### How?:😎
- 1. Open My Computer and take a picture/screenshot of the C Drive storage ( to keep a note of current storage )
- 2. Download the "exe" file here [here](https://github.com/taksh-at-khoj/Level1/blob/main/CleanUpWindows/Cleanup.exe)
- 3. Open up the Software that i shared and click Clean Up! button ... to clean the crap, sorry i mean the drive :)
- 4. After Finishing the CleanUp (should take some time based on how much you had :D ) click a picture/screenshot of the MyComputer... 
+ 1. Open My Computer and take a *Note* of the C Drive storage ( a screenshot will do )
+ 2. Download the "exe" file here [here](https://github.com/taksh-at-khoj/Level1/blob/main/CleanUpWindows/Cleanup.exe) <br>
+    ![image](https://github.com/taksh-at-khoj/Level1/assets/170748588/be9fdb4b-5969-4a62-a3f1-1e982f21b6c8)
+ 4. If you see an alert on your screen, there's NO need to worry! <br>
+    ![image](https://github.com/taksh-at-khoj/Level1/assets/170748588/7b2d99be-496b-4e67-a4d4-8e3bf06dd883)
+ 4. Click **Run Anyway** and click **Clean Up!** button ... to clean the junk from the drive :)
+ 5. After Finishing the CleanUp (should take some time based on how much you had :D ) take a note of the storage again!... 
 
 ### Enjoyed!?: How many GiBis/ MBis did you clear ??? 😁
 
